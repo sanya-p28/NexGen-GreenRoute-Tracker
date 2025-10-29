@@ -1,4 +1,4 @@
-🌿 NexGen GreenRoute: Logistics Sustainability Tracker
+🌿 NextGen GreenRoute: Logistics Sustainability Tracker
 
 Challenge: Innovation in Logistics and Sustainability (Sustainability Tracker - Option 7)
 Goal: To create a data-driven dashboard that quantifies the environmental impact of logistics operations and provides clear, actionable steps for reducing the carbon footprint while maintaining cost efficiency.
